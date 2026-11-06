@@ -1,0 +1,23 @@
+{
+  "format": "hsd-lingo-kelime-bankasi",
+  "surum": 1,
+  "aciklama": "Kelimeyi değiştir düğmeleri, bir turun yedek kelimeleri bitince bu listeden aynı alanda ve aynı uzunlukta kelime getirir.",
+  "teknoloji": {
+    "4": ["DİSK", "FARE", "KASA", "ŞARJ", "PRİZ", "LENS", "FLAŞ", "BAYT", "MENÜ", "SİTE", "LOGO", "HATA", "YAMA", "AKIŞ", "VERİ", "AĞAÇ", "İKON", "ŞEMA", "ATOM", "UYDU", "UZAY", "KLON", "FAKS", "AYAR", "TEMA"],
+    "5": ["DUVAR", "PİLOT", "BOBİN", "DİYOT", "AMPER", "YIĞIN", "SABİT", "SOYUT", "İŞLEV", "KALIP", "TAKİP", "ÖLÇEK", "ROTOR", "SONDA", "SONAR", "TURBO", "EKSEN", "DİŞLİ", "LEHİM", "BETİK", "BASKI", "GEÇİŞ", "KESME", "ŞERİT", "LOJİK", "MEKİK", "PALET"],
+    "6": ["KONSOL", "SİNYAL", "BARKOD", "KLASÖR", "SÜRÜCÜ", "ARAYÜZ", "ŞABLON", "VEKTÖR", "KATMAN", "SİSTEM", "ENERJİ", "VOLTAJ", "DİSKET", "TELSİZ", "FİLTRE", "MATRİS", "OTURUM", "ERİŞİM", "KUYRUK", "İNDEKS", "MANTIK", "TARAMA", "MAKİNE", "PROFİL", "PORTAL", "SOHBET", "ETİKET", "GÖRSEL", "OYUNCU", "SEVİYE", "KORSAN", "HAFIZA", "UZANTI", "BAŞLIK", "KAYNAK", "MİMARİ", "ANALİZ", "PROTON", "NÖTRON", "PLAZMA", "TÜRBİN", "DİNAMO", "PİSTON", "MERCEK", "FORMÜL"],
+    "7": ["BATARYA", "DİJİTAL", "ROBOTİK", "İSTEMCİ", "TELEFON", "ADAPTÖR", "KUMANDA", "BİLİŞİM", "TASARIM", "KURULUM", "YÜKLEME", "İNDİRME", "AKTARIM", "TAKİPÇİ", "GÖRÜNTÜ", "FREKANS", "SİGORTA", "YÖRÜNGE", "KONTROL", "PENCERE", "DİZÜSTÜ", "ÖĞRENME", "ASİSTAN", "ANAHTAR", "DERLEME", "KUANTUM", "SAYISAL", "TELGRAF", "SİLİKON"],
+    "8": ["KABLOSUZ", "MİKROFON", "TARAYICI", "GÜVENLİK", "DEĞİŞKEN", "ELEKTRİK", "HOPARLÖR", "KULAKLIK", "BAĞLANTI", "PROTOKOL", "DEPOLAMA", "TERMİNAL", "YÖNETİCİ", "PAYLAŞIM", "GİGABAYT", "TELESKOP", "MÜHENDİS", "ELEKTRON"],
+    "9": ["ALGORİTMA", "PROGRAMCI", "YAZILIMCI", "KULLANICI", "FONKSİYON", "ANİMASYON", "YEDEKLEME", "ŞİFRELEME", "TEKNOLOJİ", "OTOMASYON", "HESAPLAMA", "MİKROSKOP"],
+    "10": ["BİLGİSAYAR", "ELEKTRONİK", "VERİTABANI", "GÜNCELLEME", "DOKUNMATİK", "NAVİGASYON", "SİMÜLASYON", "PERFORMANS", "TELEVİZYON", "HELİKOPTER"]
+  },
+  "genel kültür": {
+    "4": ["MÜZE", "NOTA", "KORO", "SOLO", "DÜET", "ŞİİR", "ÖYKÜ", "DRAM", "FABL", "MANİ", "HALI", "EBRU", "ÇİNİ", "KALE", "PAŞA", "ORDU", "KITA", "VADİ", "VAHA", "TEPE", "KUPA", "BOKS", "JUDO", "LALE", "ARYA", "BALE", "FİLM"],
+    "5": ["IRMAK", "FOSİL", "ZURNA", "MAKAM", "DİVAN", "GAZEL", "ESKİZ", "KOLAJ", "BAROK", "GOTİK", "FRESK", "VEZİR", "HAKAN", "HATUN", "BERAT", "AHLAK", "ERDEM", "RAKET", "FORMA", "KÜREK", "NAZAR", "ÇARŞI", "PAZAR", "HAMAM", "KEBAP", "MUSON", "TOTEM"],
+    "6": ["HİKAYE", "GAZETE", "MAKALE", "KÖRFEZ", "KANYON", "ŞELALE", "VOLKAN", "DEPREM", "KRATER", "PUSULA", "HARİTA", "BAYRAK", "SULTAN", "DEVLET", "MECLİS", "FERMAN", "BEYLİK", "KERVAN", "KARTAL", "ZÜRAFA", "KAPLAN", "FUTBOL", "ESKRİM", "KARATE", "KALECİ", "KAPTAN", "BAYRAM", "MOZAİK", "PORTRE", "PEYZAJ", "GALERİ", "KOSTÜM", "MEKTUP", "BALİNA", "YILDIZ", "METEOR", "BOYLAM"],
+    "7": ["PENGUEN", "SENARYO", "SATRANÇ", "MARATON", "MADALYA", "STADYUM", "FELSEFE", "ANAYASA", "PADİŞAH", "HANEDAN", "BAKLAVA", "FIRTINA", "KASIRGA", "EKVATOR", "BAŞKENT", "KARAGÖZ", "SERAMİK", "FRAGMAN", "SOPRANO", "PİRAMİT", "AHTAPOT", "KARINCA"],
+    "8": ["BİYOLOJİ", "MİTOLOJİ", "MİNYATÜR", "ANTLAŞMA", "KURTULUŞ", "İSTİKLAL", "YARIMADA", "MERİDYEN", "ŞAMPİYON", "ANTRENÖR", "BELGESEL", "FESTİVAL", "YÖNETMEN", "MÜZİSYEN"],
+    "9": ["KÜTÜPHANE", "MATEMATİK", "ARKEOLOJİ", "OLİMPİYAT", "GÖKKUŞAĞI"],
+    "10": ["CUMHURİYET", "KOMPOZİTÖR"]
+  }
+}

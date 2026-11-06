@@ -1,0 +1,27 @@
+{
+  "format": "hsd-lingo-kelimeleri",
+  "surum": 2,
+  "tur": 4,
+  "ad": "Çeyrek final",
+  "harf": 6,
+  "deneme": 5,
+  "kelimeler": [
+    {"kelime": "KAMERA", "alan": "teknoloji"},
+    {"kelime": "HEYKEL", "alan": "genel kültür"},
+    {"kelime": "KLAVYE", "alan": "teknoloji"},
+    {"kelime": "SİNEMA", "alan": "genel kültür"},
+    {"kelime": "SUNUCU", "alan": "teknoloji"},
+    {"kelime": "YAZICI", "alan": "teknoloji"},
+    {"kelime": "KONSER", "alan": "genel kültür"},
+    {"kelime": "TABLET", "alan": "teknoloji"},
+    {"kelime": "PİYANO", "alan": "genel kültür"}
+  ],
+  "yedek": [
+    {"kelime": "PAROLA", "alan": "teknoloji"},
+    {"kelime": "BELLEK", "alan": "teknoloji"},
+    {"kelime": "GRAFİK", "alan": "teknoloji"},
+    {"kelime": "DESTAN", "alan": "genel kültür"},
+    {"kelime": "PİKSEL", "alan": "teknoloji"},
+    {"kelime": "EFSANE", "alan": "genel kültür"}
+  ]
+}

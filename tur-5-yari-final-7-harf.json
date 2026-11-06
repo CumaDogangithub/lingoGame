@@ -1,0 +1,22 @@
+{
+  "format": "hsd-lingo-kelimeleri",
+  "surum": 2,
+  "tur": 5,
+  "ad": "Yarı final",
+  "harf": 7,
+  "deneme": 5,
+  "kelimeler": [
+    {"kelime": "KODLAMA", "alan": "teknoloji"},
+    {"kelime": "OKYANUS", "alan": "genel kültür"},
+    {"kelime": "DONANIM", "alan": "teknoloji"},
+    {"kelime": "TİYATRO", "alan": "genel kültür"},
+    {"kelime": "YAZILIM", "alan": "teknoloji"},
+    {"kelime": "PROGRAM", "alan": "teknoloji"}
+  ],
+  "yedek": [
+    {"kelime": "MONİTÖR", "alan": "teknoloji"},
+    {"kelime": "GEZEGEN", "alan": "genel kültür"},
+    {"kelime": "İŞLEMCİ", "alan": "teknoloji"},
+    {"kelime": "GALAKSİ", "alan": "genel kültür"}
+  ]
+}

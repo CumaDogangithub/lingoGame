@@ -1,0 +1,17 @@
+{
+  "format": "hsd-lingo-kelimeleri",
+  "surum": 2,
+  "tur": 6,
+  "ad": "Final",
+  "harf": 8,
+  "deneme": 6,
+  "kelimeler": [
+    {"kelime": "İNTERNET", "alan": "teknoloji"},
+    {"kelime": "ORKESTRA", "alan": "genel kültür"},
+    {"kelime": "UYGULAMA", "alan": "teknoloji"}
+  ],
+  "yedek": [
+    {"kelime": "PLATFORM", "alan": "teknoloji"},
+    {"kelime": "EDEBİYAT", "alan": "genel kültür"}
+  ]
+}

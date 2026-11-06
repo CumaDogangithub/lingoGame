@@ -1,0 +1,36 @@
+{
+  "format": "hsd-lingo-kelimeleri",
+  "surum": 2,
+  "tur": 3,
+  "ad": "3. Tur",
+  "harf": 5,
+  "deneme": 5,
+  "kelimeler": [
+    {"kelime": "PLATO", "alan": "genel kültür"},
+    {"kelime": "UYARI", "alan": "teknoloji"},
+    {"kelime": "EFEKT", "alan": "teknoloji"},
+    {"kelime": "TÜNEL", "alan": "teknoloji"},
+    {"kelime": "ÜNİTE", "alan": "teknoloji"},
+    {"kelime": "YAYLA", "alan": "genel kültür"},
+    {"kelime": "GÖREV", "alan": "teknoloji"},
+    {"kelime": "ANTİK", "alan": "genel kültür"},
+    {"kelime": "YETKİ", "alan": "teknoloji"},
+    {"kelime": "MAKRO", "alan": "teknoloji"},
+    {"kelime": "DALGA", "alan": "teknoloji"},
+    {"kelime": "BUZUL", "alan": "genel kültür"},
+    {"kelime": "ALICI", "alan": "teknoloji"},
+    {"kelime": "SOKET", "alan": "teknoloji"},
+    {"kelime": "SİKKE", "alan": "genel kültür"},
+    {"kelime": "BİRİM", "alan": "teknoloji"},
+    {"kelime": "BURUN", "alan": "genel kültür"},
+    {"kelime": "BOĞAZ", "alan": "genel kültür"}
+  ],
+  "yedek": [
+    {"kelime": "ARAMA", "alan": "teknoloji"},
+    {"kelime": "KUTUP", "alan": "genel kültür"},
+    {"kelime": "BÖCEK", "alan": "teknoloji"},
+    {"kelime": "İKLİM", "alan": "genel kültür"},
+    {"kelime": "KOPYA", "alan": "teknoloji"},
+    {"kelime": "MAGMA", "alan": "genel kültür"}
+  ]
+}
