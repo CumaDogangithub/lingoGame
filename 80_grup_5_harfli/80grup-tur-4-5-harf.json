@@ -1,0 +1,30 @@
+{
+  "format": "hsd-lingo-kelimeleri",
+  "surum": 2,
+  "tur": 4,
+  "ad": "4. Tur",
+  "harf": 5,
+  "kelimeler": [
+    {"kelime": "DURUM", "alan": "teknoloji"},
+    {"kelime": "TİLKİ", "alan": "genel kültür"},
+    {"kelime": "FREZE", "alan": "teknoloji"},
+    {"kelime": "ÇEVRE", "alan": "teknoloji"},
+    {"kelime": "KAVAL", "alan": "genel kültür"},
+    {"kelime": "SOMUN", "alan": "teknoloji"},
+    {"kelime": "SUCUK", "alan": "genel kültür"},
+    {"kelime": "DÖKÜM", "alan": "teknoloji"},
+    {"kelime": "VİZÖR", "alan": "teknoloji"},
+    {"kelime": "CASUS", "alan": "teknoloji"},
+    {"kelime": "KANUN", "alan": "genel kültür"},
+    {"kelime": "TORNA", "alan": "teknoloji"},
+    {"kelime": "ORTAM", "alan": "teknoloji"},
+    {"kelime": "HALAY", "alan": "genel kültür"},
+    {"kelime": "HORON", "alan": "genel kültür"}
+  ],
+  "yedek": [
+    {"kelime": "KANCA", "alan": "teknoloji"},
+    {"kelime": "GEYİK", "alan": "genel kültür"},
+    {"kelime": "KABUK", "alan": "teknoloji"},
+    {"kelime": "MARTI", "alan": "genel kültür"}
+  ]
+}

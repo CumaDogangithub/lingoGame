@@ -1,0 +1,16 @@
+{
+  "format": "hsd-lingo-kelimeleri",
+  "surum": 2,
+  "tur": 6,
+  "ad": "Yarı final",
+  "harf": 7,
+  "kelimeler": [
+    {"kelime": "YAZILIM", "alan": "teknoloji"},
+    {"kelime": "TİYATRO", "alan": "genel kültür"},
+    {"kelime": "DONANIM", "alan": "teknoloji"}
+  ],
+  "yedek": [
+    {"kelime": "PROGRAM", "alan": "teknoloji"},
+    {"kelime": "OKYANUS", "alan": "genel kültür"}
+  ]
+}
